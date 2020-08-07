@@ -27,8 +27,8 @@
 						cuIcon: 'vipcard'
 					},
 					{
-						title: '血压',
-						name: 'nav',
+						title: '服务端调试',
+						name: 'serverDebug',
 						color: 'mauve',
 						cuIcon: 'formfill'
 					},

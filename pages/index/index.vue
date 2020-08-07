@@ -3,7 +3,9 @@
 		<basics v-if="PageCur=='basics'"></basics>
 		<components v-if="PageCur=='component'"></components>
 		<plugin v-if="PageCur=='plugin'"></plugin>
-		<data v-if="PageCur=='data'"></data>
+		<generate v-if="PageCur=='generate'"></generate>
+		<ui v-if="PageCur=='ui'"></ui>
+		
 		<view class="cu-bar tabbar bg-white shadow foot">
 			<view class="action" @click="NavChange" data-cur="basics">
 				<view class='cuIcon-cu-image'>
@@ -11,11 +13,18 @@
 				</view>
 				<view :class="PageCur=='basics'?'text-green':'text-gray'">元素</view>
 			</view>
-			<view class="action" @click="NavChange" data-cur="data">
+			<view class="action" @click="NavChange" data-cur="generate">
 				<view class='cuIcon-cu-image'>
 					<image :src="'/static/tabbar/plugin' + [PageCur == 'plugin'?'_cur':''] + '.png'"></image>
 				</view>
-				<view :class="PageCur=='data'?'text-green':'text-gray'">数据</view>
+				<view :class="PageCur=='generate'?'text-green':'text-gray'">数据</view>
+			</view>
+			
+			<view class="action" @click="NavChange" data-cur="ui">
+				<view class='cuIcon-cu-image'>
+					<image :src="'/static/tabbar/plugin' + [PageCur == 'plugin'?'_cur':''] + '.png'"></image>
+				</view>
+				<view :class="PageCur=='ui'?'text-green':'text-gray'">UI</view>
 			</view>
 
 			<view class="action" @click="NavChange" data-cur="component">

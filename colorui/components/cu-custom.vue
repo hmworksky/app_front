@@ -41,6 +41,7 @@
 				type: String,
 				default: ''
 			},
+			
 			isBack: {
 				type: [Boolean, String],
 				default: false

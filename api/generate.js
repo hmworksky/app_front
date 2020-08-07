@@ -1,12 +1,8 @@
 import {get, post} from '../utils/request'
 
 
-export function getSendConf(query) {
-  return get({
-    url: '/article/list',
-    method: 'get',
-    params: query
-  })
+export function getSendDetail(query) {
+  return get('/generate/detail/', query)
 }
 
 export function sendData(data) {

@@ -59,11 +59,11 @@
 				swiperList: [{
 					id: 0,
 					type: 'image',
-					url: 'https://ossweb-img.qq.com/images/lol/web201310/skin/big84000.jpg'
+					url: 'http://test.hmworksky.com/1596709912.973804-logo.png'
 				}, {
 					id: 1,
 					type: 'image',
-					url: 'https://ossweb-img.qq.com/images/lol/web201310/skin/big37006.jpg',
+					url: 'http://test.hmworksky.com/1596710235.650364-logo.png',
 				}, {
 					id: 2,
 					type: 'image',

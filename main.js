@@ -13,8 +13,16 @@ Vue.component('plugin',plugin)
 import generate from './pages/generate/home.vue'
 Vue.component('generate', generate)
 
+import ui from './pages/ui/home.vue'
+Vue.component('ui', ui)
+
 import cuCustom from './colorui/components/cu-custom.vue'
 Vue.component('cu-custom',cuCustom)
+
+import login from './pages/login/login.vue'
+Vue.component('login',login)
+
+
 
 
 

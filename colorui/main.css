@@ -3131,11 +3131,12 @@ scroll-view.cu-steps .cu-item {
 }
 
 .margin-tb-sm {
-	margin-top: 50upx;
+	margin-top: 400upx;
 	bottom: 0px;
 	/*transform: translateX(-50%);*/
 	margin-left: 80upx;
 	margin-right: 80upx;
+	margin-bottom: 50upx;
 }
 
 .margin-tb {
@@ -3573,6 +3574,11 @@ scroll-view.cu-steps .cu-item {
 
 .bg-gradual-pink {
 	background-image: linear-gradient(45deg, #ec008c, #6739b6);
+	color: #ffffff;
+}
+
+.login-bg-gradual-pink {
+	background-image: linear-gradient(45deg, #0081ff, #0081ff);
 	color: #ffffff;
 }
 

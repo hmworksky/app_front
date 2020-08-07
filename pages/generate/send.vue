@@ -95,8 +95,8 @@
                 ],
 				sendTypeListMap: {
 			        心率: "heart",
-			        血压: "bloodPressure",
-			        血氧: "bloodOxygen",
+			        血压: "blood_pressure",
+			        血氧: "blood_oxygen",
 
                 },
 			}
@@ -123,28 +123,33 @@
                     //TODO
                 }
             },
+			getEnvValue(){
+				return this.sendConf.envList[this.sendEnvIndex]
+			},
             sendDataByData() {
 				// TODO
 
 
-                // 跳转页面
+                // 构造请求参数
                 const param = {
                     request_id: this.sendDevice + '_'+ Date.parse(new Date()),
+					env: this.getEnvValue(),
                     device: this.sendDevice,
                     send_type: this.getSendValue(),
-                    send_interval: this.sendInterval,
-                    heart: this.sendHeart,
-                    blood_oxygen: this.sendBloodPressure,
+					send_count: this.sendNumber,
+                    interval_time: this.sendInterval,
+                    heart_value: this.sendHeart,
+                    blood_oxygen_value: this.sendBloodOxygen,
                     env: this.sendConf.envList[this.sendEnvIndex],
-                    low_blood_pressure: this.sendBloodPressure.low,
-                    high_blood_pressure: this.sendBloodPressure.high,
+                    diastolic: this.sendBloodPressure.low,
+                    systolic: this.sendBloodPressure.high,
 
                 }
-                console.log(param.requestId)
+                console.log(param)
                 sendData(param).then(response=>{
                     console.log(response)
                 }).catch(error => console.log(error))
-                this.$router.push({path:'/pages/generate/sendDetail', query:{requestId: param.requestId}})
+                this.$router.push({path:'/pages/generate/sendDetail', query:{requestId: param.request_id}})
 			},
 
 		}
