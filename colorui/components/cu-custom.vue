@@ -55,9 +55,7 @@
 		methods: {
 			BackPage() {
 			    if (this.backPath == null || this.backPath.length ==0){
-			        uni.navigateBack({
-					delta: 1
-				});
+			        this.$router.go(-1);
 				}else{
 			        this.$router.push({path: this.backPath})
 				}

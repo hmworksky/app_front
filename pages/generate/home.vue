@@ -27,8 +27,8 @@
 						cuIcon: 'vipcard'
 					},
 					{
-						title: '服务端调试',
-						name: 'serverDebug',
+						title: '常用设备列表',
+						name: 'deviceQr',
 						color: 'mauve',
 						cuIcon: 'formfill'
 					},

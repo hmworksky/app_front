@@ -2360,6 +2360,16 @@ button.cuIcon.lg {
 	padding: 0;
 }
 
+.cu-form-group-add-app textarea {
+	margin: 32upx 0 30upx;
+	height: 4.6em;
+	width: 100%;
+	line-height: 1.2em;
+	flex: 1;
+	font-size: 28upx;
+	padding: 0;
+}
+
 .cu-form-group.align-start .title {
 	height: 1em;
 	margin-top: 32upx;
@@ -3032,6 +3042,8 @@ scroll-view.cu-steps .cu-item {
 	margin-top: 30upx;
 }
 
+
+
 .margin-top-lg {
 	margin-top: 40upx;
 }
@@ -3131,7 +3143,7 @@ scroll-view.cu-steps .cu-item {
 }
 
 .margin-tb-sm {
-	margin-top: 400upx;
+	margin-top: 200upx;
 	bottom: 0px;
 	/*transform: translateX(-50%);*/
 	margin-left: 80upx;

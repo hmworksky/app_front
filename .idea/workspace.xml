@@ -20,22 +20,188 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="394499a1-0903-4581-b53c-cb86790c2839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/generate.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/generate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colorui/components/cu-custom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/colorui/components/cu-custom.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/colorui/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/colorui/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/dev.env.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/lib/adapters/http.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/axios/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/axios/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vant/icons/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vant/icons/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vant/icons/src/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/encode.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vant/icons/src/encode.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vant/icons/src/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/vant-icon-6ae417.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/vant-icon-6ae417.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vant/icons/src/vant-icon-6ae417.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@vue/babel-helper-vue-jsx-merge-props/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@vue/babel-helper-vue-jsx-merge-props/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/debug/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/debug/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/follow-redirects/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/ms/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/ms/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/bin-prettier.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-babylon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-glimmer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-graphql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-parse5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-postcss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/parser-vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prettier/third-party.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/regenerator-runtime/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/changelog.generated.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/changelog.generated.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/action-sheet/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-edit/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/address-list/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/calendar/components/Month.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/calendar/components/Month.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/calendar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/calendar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/card/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/card/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/cell/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/cell/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-edit/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/contact-list/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/coupon/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/coupon/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/Dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dialog/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/dropdown-menu/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/dropdown-menu/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/field/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/field/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/field/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/field/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/goods-action-button/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/icon/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/icon/local.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/icon/local.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image-preview/ImagePreview.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image-preview/ImagePreview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/image/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/image/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/info/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/info/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/info/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/info/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/mixins/portal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/mixins/portal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/number-keyboard/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/Sku.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/Sku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/sku/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/sku/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/step/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/step/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/style/var.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/style/var.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/swipe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/swipe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabbar-item/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/Title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tabs/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tag/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tag/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/tag/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/tag/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/toast/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/toast/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/es/uploader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/es/uploader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/action-sheet/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-edit/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/address-list/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/calendar/components/Month.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/calendar/components/Month.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/calendar/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/calendar/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/card/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/card/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/cell/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/cell/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-edit/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/contact-list/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon-cell/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/coupon/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/coupon/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/Dialog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/less.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dialog/style/less.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/dropdown-menu/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/dropdown-menu/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/field/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/field/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/field/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/field/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/goods-action-button/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/icon/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/icon/local.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/icon/local.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/ImagePreview.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/ImagePreview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image-preview/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/image/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/image/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/info/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/info/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/info/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/info/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/mixins/portal.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/mixins/portal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/number-keyboard/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/picker/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/picker/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/Sku.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/Sku.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/sku/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/step/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/step/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/style/var.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/style/var.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/swipe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/swipe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabbar-item/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/Title.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tabs/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/tag/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/toast/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/toast/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/uploader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/uploader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/vant.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/lib/vant.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/lib/vant.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/vant/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/types/dialog.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/types/dialog.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/vetur/attributes.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/vetur/attributes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/vetur/tags.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/vetur/tags.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vant/vetur/web-types.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vant/vetur/web-types.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/vue-lazyload/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vue-lazyload/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/generate/send.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/generate/send.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/generate/sendDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/generate/sendDetail.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/component/form.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/component/form.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/generate/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/generate/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ui/appManage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ui/home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/pages/ui/home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +235,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -288,6 +455,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="341" y="132" width="598" height="490" key="find.popup" timestamp="1596540086321">

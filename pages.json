@@ -113,14 +113,30 @@
 		}, {
 			"path": "pages/generate/sendDetail",
 			"style": {}
-		},{
+		}, {
+			"path": "pages/generate/deviceQr",
+			"style": {}
+		},
+		{
 			"path": "pages/login/login",
 			"style": {}
 		},{
 			"path": "pages/ui/home",
 			"style": {}
 		},{
-			"path": "pages/ui/appManage",
+			"path": "pages/ui/app/home",
+			"style": {}
+		},{
+			"path": "pages/ui/app/add",
+			"style": {}
+		},{
+			"path": "pages/ui/app/detail",
+			"style": {}
+		},{
+			"path": "pages/ui/page/home",
+			"style": {}
+		},{
+			"path": "pages/ui/page/add",
 			"style": {}
 		}
 	],

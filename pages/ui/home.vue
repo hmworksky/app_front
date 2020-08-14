@@ -4,7 +4,7 @@
 		<scroll-view scroll-y class="page">
 			<image src="/static/tabbar/generate.jpg" mode="widthFix" class="response"></image>
 			<view class="nav-list">
-				<navigator hover-class='none' :url="'/pages/ui/' + item.name" class="nav-li" navigateTo :class="'bg-'+item.color"
+				<navigator hover-class='none' :url="'/pages/ui/' + item.name + '/home'" class="nav-li" navigateTo :class="'bg-'+item.color"
 				 :style="[{animation: 'show ' + ((index+1)*0.2+1) + 's 1'}]" v-for="(item,index) in elements" :key="index">
 					<view class="nav-title">{{item.title}}</view>
 					<view class="nav-name">{{item.name}}</view>
@@ -22,7 +22,7 @@
 			return {
 				elements: [{
 						title: 'App管理',
-						name: 'appManage',
+						name: 'app',
 						color: 'blue',
 						cuIcon: 'vipcard'
 					},

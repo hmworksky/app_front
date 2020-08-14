@@ -4,9 +4,9 @@ import { Toast } from 'vant';
 
 // 环境的切换
 if (process.env.NODE_ENV == 'development') {
-    axios.defaults.baseURL = 'http://192.168.52.165:8888';
+    axios.defaults.baseURL = 'http://192.168.60.62:8888';
 } else if (process.env.NODE_ENV == 'debug') {
-    axios.defaults.baseURL = 'http://192.168.52.165:8888';
+    axios.defaults.baseURL = 'http://192.168.60.62:8888';
 } else if (process.env.NODE_ENV == 'production') {
     axios.defaults.baseURL = 'http://api.123dailu.com/';
 }
