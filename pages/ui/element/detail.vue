@@ -1,11 +1,15 @@
 <template>
 	<view>
 		<scroll-view :scroll-y="modalName==null" class="page" :class="modalName!=null?'show':''">
-			<cu-custom bgColor="bg-gradual-pink" :url="'/pages/ui/home'" :isBack="true">
+			<cu-custom bgColor="bg-gradual-pink" :url="'/pages/element/home'" :isBack="true">
 				<block slot="backText">返回</block>
-				<block slot="content">页面列表</block>
+				<block slot="content">页面详情</block>
 			</cu-custom>
-
+<!-- 			<view class="cu-bar bg-white solid-bottom margin-top">
+				<view class="action">
+					<text class="cuIcon-title text-orange "></text> 宫格列表
+				</view>
+			</view> -->
 			<view class="cu-modal" :class="modalName=='gridModal'?'show':''" @tap="hideModal">
 				<view class="cu-dialog" @tap.stop>
 					<radio-group class="block" @change="Gridchange">
@@ -49,7 +53,7 @@
 
 			<view class="cu-bar bg-white solid-bottom margin-top">
 				<view class="action">
-					<text class="cuIcon-title text-orange "></text> 页面列表
+					<text class="cuIcon-title text-orange "></text> 元素列表
 				</view>
 			</view>
 			<view class="cu-list menu-avatar">
@@ -92,7 +96,7 @@
 					cuIcon: 'cardboardfill',
 					color: 'red',
 					name: 'add',
-					title: '新增页面'
+					title: '新增页面111'
 				}, {
 					cuIcon: 'recordfill',
 					color: 'orange',
@@ -158,46 +162,8 @@
 			},
 			goToDetail(pageId){
 				this.$router.push({path:'/pages/ui/page/detail', query:{pageId: pageId}})
-			},
-			hideModal(e) {
-				this.modalName = null
-			},
-			Gridchange(e) {
-				this.gridCol = e.detail.value
-			},
-			Gridswitch(e) {
-				this.gridBorder = e.detail.value
-			},
-			MenuBorder(e) {
-				this.menuBorder = e.detail.value
-			},
-			MenuArrow(e) {
-				this.menuArrow = e.detail.value
-			},
-
-			SwitchSex(e) {
-				this.skin = e.detail.value
-			},
-
-			// ListTouch触摸开始
-			ListTouchStart(e) {
-				this.listTouchStart = e.touches[0].pageX
-			},
-
-			// ListTouch计算方向
-			ListTouchMove(e) {
-				this.listTouchDirection = e.touches[0].pageX - this.listTouchStart > 0 ? 'right' : 'left'
-			},
-
-			// ListTouch计算滚动
-			ListTouchEnd(e) {
-				if (this.listTouchDirection == 'left') {
-					this.modalName = e.currentTarget.dataset.target
-				} else {
-					this.modalName = null
-				}
-				this.listTouchDirection = null
 			}
+
 		}
 	}
 </script>

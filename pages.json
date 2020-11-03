@@ -138,6 +138,18 @@
 		},{
 			"path": "pages/ui/page/add",
 			"style": {}
+		},{
+			"path": "pages/ui/page/detail",
+			"style": {}
+		},{
+			"path": "pages/ui/element/home",
+			"style": {}
+		},{
+			"path": "pages/ui/element/detail",
+			"style": {}
+		},{
+			"path": "pages/ui/element/add",
+			"style": {}
 		}
 	],
 	"globalStyle": {

@@ -1,11 +1,15 @@
 <template>
 	<view>
 		<scroll-view :scroll-y="modalName==null" class="page" :class="modalName!=null?'show':''">
-			<cu-custom bgColor="bg-gradual-pink" :url="'/pages/ui/home'" :isBack="true">
+			<cu-custom bgColor="bg-gradual-pink" :url="'/ui/element/home'" :isBack="true">
 				<block slot="backText">返回</block>
-				<block slot="content">页面列表</block>
+				<block slot="content">元素列表</block>
 			</cu-custom>
-
+<!-- 			<view class="cu-bar bg-white solid-bottom margin-top">
+				<view class="action">
+					<text class="cuIcon-title text-orange "></text> 宫格列表
+				</view>
+			</view> -->
 			<view class="cu-modal" :class="modalName=='gridModal'?'show':''" @tap="hideModal">
 				<view class="cu-dialog" @tap.stop>
 					<radio-group class="block" @change="Gridchange">
@@ -49,7 +53,7 @@
 
 			<view class="cu-bar bg-white solid-bottom margin-top">
 				<view class="action">
-					<text class="cuIcon-title text-orange "></text> 页面列表
+					<text class="cuIcon-title text-orange "></text> 新增元素
 				</view>
 			</view>
 			<view class="cu-list menu-avatar">
